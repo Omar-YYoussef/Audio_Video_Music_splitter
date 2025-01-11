@@ -1,0 +1,3 @@
+[submodule "Music_Splitter"]
+	path = Music_Splitter
+	url = https://huggingface.co/spaces/Omar-youssef/Music_Splitter

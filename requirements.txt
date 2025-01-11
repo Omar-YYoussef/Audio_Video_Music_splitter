@@ -1,0 +1,10 @@
+numpy==1.23.5
+pandas==1.5.3
+streamlit==1.29.0
+torch==2.1.0
+torchaudio==2.1.0
+demucs==4.0.1
+soundfile==0.12.1
+diffq==0.2.4
+ffmpeg-python==0.2.0
+yt-dlp==2024.12.23
