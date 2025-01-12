@@ -85,7 +85,7 @@ After processing is complete, a button will appear that allows you to start the 
 
 ## 📝 License 📝
 
-[MIT License]
+This project is licensed under the MIT License.
 
 ## 🤝 Contributing 🤝
 
@@ -94,8 +94,3 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 ## 👨‍💻 Author 👨‍💻
 
 Omar Youssef
-
-## 🙏 Acknowledgments 🙏
-
-*   This application is based on the excellent work of the Demucs and FFmpeg teams. 👏
-*   The Streamlit team for providing a great platform for web applications. 💻
