@@ -1,4 +1,4 @@
-# 🎵 Omar-YYoussef-Audio/Music Splitter 🎶
+#🎵 Vocal Separator: Music & Audio Splitter 🎶
 
 This Streamlit application allows you to separate vocals from music in audio and video files. It uses the Demucs model for source separation and FFmpeg for audio and video processing. 🎧🎬
 
@@ -22,26 +22,6 @@ This Streamlit application allows you to separate vocals from music in audio and
 *   Docker (if you want to run in a container) 🐳
 *   Python 3.9+ (if running locally) 🐍
 *   `pip` (Python package installer) 📦
-
-### 🐳 Installation (using Docker) 🐳
-
-1.  **Clone the repository:**
-    ```bash
-    git clone <your-repo-url>
-    cd Omar-YYoussef-Audio_Music_splitter
-    ```
-
-2.  **Build the Docker image:**
-    ```bash
-    docker build -t audio-splitter .
-    ```
-
-3.  **Run the Docker container:**
-    ```bash
-    docker run -p 8501:8501 audio-splitter
-    ```
-
-    The app will be accessible in your web browser at `http://localhost:8501`. 🌐
 
 ### 💻 Installation (Locally) 💻
 
