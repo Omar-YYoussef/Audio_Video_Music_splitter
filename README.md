@@ -47,8 +47,8 @@ This Streamlit application allows you to separate vocals from music in audio and
 
 1.  **Clone the repository:**
     ```bash
-     git clone <your-repo-url>
-    cd Omar-YYoussef-Audio_Music_splitter
+     git clone https://github.com/username/Omar-YYoussef-Audio_Music_splitter.git
+     cd Omar-YYoussef-Audio_Music_splitter
     ```
 
 2.  **Install dependencies:**
