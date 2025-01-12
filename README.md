@@ -1,4 +1,4 @@
-#🎵 Vocal Separator: Music & Audio Splitter 🎶
+##🎵 Vocal Separator: Music & Audio Splitter 🎶
 
 This Streamlit application allows you to separate vocals from music in audio and video files. It uses the Demucs model for source separation and FFmpeg for audio and video processing. 🎧🎬
 
