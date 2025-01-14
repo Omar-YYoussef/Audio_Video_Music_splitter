@@ -19,12 +19,12 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'
+        python-version: '3.9'
 
-    - name: Install setuptools
+    - name: Install setuptools and pkg_resources
       run: |
         python -m pip install --upgrade pip
-        pip install setuptools
+        pip install --upgrade setuptools pkg_resources
 
     - name: Install dependencies
       run: |
