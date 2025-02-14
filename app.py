@@ -4,10 +4,9 @@ import streamlit as st
 import tempfile
 import os
 from pathlib import Path
-from video_processor import VideoProcessor
-from audio_processor import AudioProcessor
-from link_processor import LinkDownloader
-
+from app.processors.video_processor import VideoProcessor
+from app.processors.audio_processor import AudioProcessor
+from app.processors.link_processor import LinkDownloader
 # Initialize session state for tracking processing status
 if 'processing_complete' not in st.session_state:
     st.session_state.processing_complete = False
